@@ -7,3 +7,14 @@ import matplotlib.pyplot as plt
 
 # Read data
 data = pd.read_csv('house_price_polynomial_dataset.csv')
+
+
+plt.scatter(data['size'], data['price'])
+plt.grid()
+plt.xlabel('Size')
+plt.ylabel('Price')
+plt.show()
+
+# i know that i can use train test split
+np.random.seed(42)
+msk = np.random.rand(len(data)) > 0.8
