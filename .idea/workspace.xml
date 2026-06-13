@@ -4,9 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79ba0d92-606c-41b4-8d2d-5e278a0493a3" name="Changes" comment="-">
+    <list default="true" id="1ac8ea01-5cfa-477f-9512-286cc97763f8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/regression exam/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/regression exam/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiple regression (Salary)/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiple regression (Salary)/multiple_regression_dataset.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-Linear Regression ( Train )/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-Linear Regression ( Train )/nonlinear_dataset.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/polynomial regression/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/polynomial regression/house_price_polynomial_dataset.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/real project for Regression 1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/real project for Regression 1/noisy_job_market.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/regression exam/1632300362534233.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/regression exam/model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple linear regresion (house price)/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple linear regresion (house price)/house_prices_regression.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple linear regresion (house price)/manualy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple linear regression (final exam)/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple linear regression (final exam)/student_scores_regression_1000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple regression (salary)/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple regression (salary)/final_exam_regression_dataset.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,44 +42,35 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Amir1388512&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Amir1388512"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Amir1388512/Machine-Learning.git&quot;,
-    &quot;accountId&quot;: &quot;aa11dda1-3012-4cee-b41f-f248a8c7b42b&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Amir1388512/Machine-Learning.git",
+    "accountId": "aa11dda1-3012-4cee-b41f-f248a8c7b42b"
   }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 2
-}</component>
-  <component name="ProjectId" id="3ESC35PbjAwx1chEIXLN18AZxbT" />
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="3Eufd27UrFDuQQZ8f5u7jcXNfP9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.app.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.manualy.executor": "Run",
     "Python.model.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/amirb/OneDrive/Desktop/machine learning training"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\amirb\OneDrive\Desktop\machine learning training" />
-    </key>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -71,60 +81,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="79ba0d92-606c-41b4-8d2d-5e278a0493a3" name="Changes" comment="" />
-      <created>1780162382511</created>
+      <changelist id="1ac8ea01-5cfa-477f-9512-286cc97763f8" name="Changes" comment="" />
+      <created>1781033461009</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1780162382511</updated>
+      <updated>1781033461009</updated>
     </task>
-    <task id="LOCAL-00001" summary="-">
-      <option name="closed" value="true" />
-      <created>1780345027966</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1780345027966</updated>
-    </task>
-    <task id="LOCAL-00002" summary="-">
-      <option name="closed" value="true" />
-      <created>1780419665610</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1780419665610</updated>
-    </task>
-    <task id="LOCAL-00003" summary="-">
-      <option name="closed" value="true" />
-      <created>1780419683530</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1780419683530</updated>
-    </task>
-    <task id="LOCAL-00004" summary="-">
-      <option name="closed" value="true" />
-      <created>1781014817650</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1781014817650</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="-" />
-    <option name="LAST_COMMIT_MESSAGE" value="-" />
   </component>
 </project>
